@@ -15,6 +15,8 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Markdown](https://img.shields.io/badge/Markdown-A9A9A9?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=fff)](https://yaml.org/)
+[![ExpressJS](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=for-the-badge)]([https://nestjs.com/](https://expressjs.com/))
+[![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://www.markdownguide.org/)
 [![Angular Material](https://img.shields.io/badge/Angular%20Material-39ace7?style=for-the-badge&logo=angular&logoColor=white)](https://www.markdownguide.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
