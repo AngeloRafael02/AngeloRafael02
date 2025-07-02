@@ -14,6 +14,7 @@
 [![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)](https://en.wikipedia.org/wiki/Visual_Basic_(.NET))
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Markdown](https://img.shields.io/badge/Markdown-A9A9A9?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](https://yaml.org/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://www.markdownguide.org/)
 [![Angular Material](https://img.shields.io/badge/Angular%20Material-39ace7?style=for-the-badge&logo=angular&logoColor=white)](https://www.markdownguide.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
