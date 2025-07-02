@@ -1,10 +1,10 @@
 # Hi!👋 I am Angelo Rafael F. Recio
 - 👀 I’m interested in Software Development, Game Development, and DevOps
 - 💞️ I’m looking to collaborate with Anyone who wants some help! Who knows, I might learn more with you too!
-- 📫 How to reach me...
-    - Email: recioangelorafael@gmail.com,
-    - Facebook: https://www.facebook.com/angelorafael.recio.5/
-    - LinkedIn: https://www.linkedin.com/in/angelo-rafael-recio-95a02a1a5/
+- 📫 You guys can reach me on  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](recioangelorafael@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/angelorafael.recio.5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-rafael-recio-95a02a1a5/)
+
 ### Technologies Used
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
